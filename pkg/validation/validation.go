@@ -2,8 +2,9 @@ package validation
 
 import (
 	"fmt"
-	"go-utils/pkg/multierror"
 	"reflect"
+
+	"github.com/ppapapetrou76/go-utils/pkg/multierror"
 )
 
 // IsRequired returns a formatted error message if the given element is nil or empty, else it returns nil.
