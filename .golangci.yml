@@ -9,6 +9,7 @@ issues:
         - testpackage
         - goerr113
         - varnamelen
+        - gosec
 
 linters:
   enable-all: true
