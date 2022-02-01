@@ -7,14 +7,14 @@ github.com/golang/protobuf/proto
 # github.com/pmezard/go-difflib v1.0.0
 ## explicit
 github.com/pmezard/go-difflib/difflib
-# github.com/ppapapetrou76/go-testing v0.0.7
+# github.com/ppapapetrou76/go-testing v0.0.8
 ## explicit; go 1.17
 github.com/ppapapetrou76/go-testing/assert
 github.com/ppapapetrou76/go-testing/internal/pkg/types
 github.com/ppapapetrou76/go-testing/internal/pkg/utils
 github.com/ppapapetrou76/go-testing/internal/pkg/values
 github.com/ppapapetrou76/go-testing/types
-# github.com/r3labs/diff/v2 v2.14.3
+# github.com/r3labs/diff/v2 v2.14.6
 ## explicit; go 1.13
 github.com/r3labs/diff/v2
 # github.com/stretchr/testify v1.7.0
