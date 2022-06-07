@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/ppapapetrou76/go-testing v0.0.8
-	github.com/stretchr/testify v1.7.1
+	github.com/stretchr/testify v1.7.2
 )
 
 require (
@@ -15,5 +15,5 @@ require (
 	github.com/vmihailenco/msgpack v4.0.4+incompatible // indirect
 	golang.org/x/net v0.0.0-20190603091049-60506f45cf65 // indirect
 	google.golang.org/appengine v1.6.6 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20200313102051-9f266ea9e77c // indirect
+	gopkg.in/yaml.v3 v3.0.1 // indirect
 )
