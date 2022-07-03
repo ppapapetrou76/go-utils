@@ -19,6 +19,8 @@ linters:
     - exhaustivestruct
     - gomoddirectives
     - goerr113
+    - revive
+    - exhaustruct
     # The following linters are deprecated
     - scopelint
     - golint
