@@ -4,7 +4,7 @@ go 1.17
 
 require (
 	github.com/ppapapetrou76/go-testing v0.0.8
-	github.com/stretchr/testify v1.8.1
+	github.com/stretchr/testify v1.8.2
 )
 
 require (
