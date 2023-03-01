@@ -17,7 +17,7 @@ github.com/ppapapetrou76/go-testing/types
 # github.com/r3labs/diff/v2 v2.14.6
 ## explicit; go 1.13
 github.com/r3labs/diff/v2
-# github.com/stretchr/testify v1.8.1
+# github.com/stretchr/testify v1.8.2
 ## explicit; go 1.13
 github.com/stretchr/testify/assert
 github.com/stretchr/testify/require
